@@ -4,9 +4,9 @@
 
 ## How to run locally?
 Clone the current repository in your local, then install the packages using
-*** npm instal ***
+** npm instal **
 Then, start the project using
-*** npm  start ***
+** npm  start **
 
 
 ## Bulk Edit Feature
